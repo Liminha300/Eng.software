@@ -16,7 +16,7 @@ Ricardo Kiyoshi Kawamuro TIA: 10436944
 
 
 
-## Documentação
+## Documentação - Fase 1
 
 ```
  I - Requisitos Funcionais 
@@ -41,3 +41,14 @@ Demanda: sistema de software para o atendimento do pedido e para encontrar local
 e segundo é um sistema de software para suportar operações da fábrica de pizzas.
 ```
 
+## Diagrama de Atividade - Fase 2
+
+![FLUXOGRAMA](https://github.com/user-attachments/assets/a3ea2ee8-e2b3-4f00-a0d9-541da5491e2c)
+
+## Diagrama de Caso de Usos - Fase 3
+
+![Diagrama de caso de uso](https://github.com/user-attachments/assets/acd46156-5197-45d8-b1b2-da2d925b4770)
+
+## Descrição dos Requisitos dos Casos de Usos - Fase 4
+
+![Tabela](https://github.com/user-attachments/assets/d6734896-3816-4e70-812e-242b597e8d5b)
