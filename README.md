@@ -2,20 +2,20 @@
 
 # Projeto: Projeto App Pizzaria
 
-# Grupo: Mackenzistas 2J
+## Grupo: Mackenzistas 2J
 Thiago Kauã Pestana do Amaral TIA: 10420686
 Lucas Ricci TIA: 10437804
 Vitor Aguiar Santana TIA: 10440059
 Ricardo Kiyoshi Kawamuro TIA: 10436944
 
-# Descrição
+## Descrição
 
 
 
-# Documentação
+## Documentação
 
 ```
-I - Requisitos Funcionais 
+ I - Requisitos Funcionais 
 
 O sistema deve ter um campo de endereço (identificar onde o cliente mora)
 Localização da unidade mais próxima do cliente.
