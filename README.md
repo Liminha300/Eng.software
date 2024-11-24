@@ -52,3 +52,7 @@ e segundo é um sistema de software para suportar operações da fábrica de piz
 ## Descrição dos Requisitos dos Casos de Usos - Fase 4
 
 ![Tabela](https://github.com/user-attachments/assets/d6734896-3816-4e70-812e-242b597e8d5b)
+
+## Diagrama de Sequencia - Fase 5
+
+![image](https://github.com/user-attachments/assets/b063824d-62f3-4864-acd7-287d11e332c7)
