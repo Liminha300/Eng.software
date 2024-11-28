@@ -61,6 +61,6 @@ e segundo é um sistema de software para suportar operações da fábrica de piz
 
 ![image](https://github.com/user-attachments/assets/fe037680-c8ef-4c89-8cd2-e3218e505c6e)
 
-## Diagrama de Classes - Fase 6
+## Diagrama de Estado - Fase 7
 
 ![Diagrama de Estado](https://github.com/Liminha300/Eng.software/blob/main/Diagrama%20de%20Estado.png?raw=true)
