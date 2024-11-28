@@ -64,3 +64,7 @@ e segundo é um sistema de software para suportar operações da fábrica de piz
 ## Diagrama de Estado - Fase 7
 
 ![Diagrama de Estado](https://github.com/Liminha300/Eng.software/blob/main/Diagrama%20de%20Estado.png?raw=true)
+
+## Diagrama de Implantação - Fase 8
+
+![Diagrama de Implatancao](https://github.com/user-attachments/assets/b322ec17-92c6-446e-b992-843acf38d6b1)
